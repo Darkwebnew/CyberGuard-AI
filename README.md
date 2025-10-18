@@ -162,17 +162,30 @@ CyberGuard AI is an advanced, AI-powered Web Application Firewall (WAF) system d
 
 ### Sample Screenshots
 
-![System Architecture](images/architecture-diagram.png)
-*System Architecture Overview*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/14fc8e84-97fd-4fe8-9848-72f18cb030f5" />
 
-![Grafana Dashboard](images/grafana-dashboard.png)
-*Real-time Monitoring Dashboard*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/97697285-60fe-48b5-951e-6aa3e39194b4" />
 
-![Attack Detection](images/attack-detection.png)
-*ML-based Attack Detection in Action*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/87c60407-c41a-4ca7-9a6a-9134f3c299e9" />
 
-![WAF Rules](images/waf-rules.png)
-*Dynamic WAF Rule Generation*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/2e75f568-9413-4950-bd68-bc99a46e4e31" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/cd89edfb-c7b7-4c4c-9628-29fa7d5c4415" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5f0bc69b-333b-48b8-851a-b6a8b52f5a09" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c41ea319-9553-4e03-9e13-90e225277a0f" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/86060d48-922f-4c16-aaee-9f3cb532b96a" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5dea4cb4-4d75-496e-a886-7304d49b5024" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/0be3f422-892b-45fb-80bb-032297f99916" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/fede5fea-8cbe-4676-bde7-302dd15faa2d" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/bc1f7550-cf6a-4b55-b809-f95aa6628e1d" />
+
 
 ## 📚 API Documentation
 
