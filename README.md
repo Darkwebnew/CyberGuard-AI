@@ -366,6 +366,18 @@ Thanks to all contributors and the cybersecurity research community
 
 ---
 
+<div align="center">
+
+## 👥 Team
+
+| Avatar | Name | Role | GitHub |
+|--------|------|------|--------|
+| <img src="https://avatars.githubusercontent.com/u/143114486?v=4" width="80" height="80" style="border-radius: 50%;"> | **Sriram V** | Project Lead & Developer | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/darkwebnew) |
+| <img src="https://avatars.githubusercontent.com/u/133313653?v=4" width="80" height="80" style="border-radius: 50%;"> | **Surothaaman R** | Contributor | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/surothaaman) |
+| <img src="https://avatars.githubusercontent.com/u/118916413?v=4" width="80" height="80" style="border-radius: 50%;"> | **Pavithra M** | Contributor | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/22008686) |
+
+---
+
 ## 📞 Contact & Support
 
 <div align="center">
