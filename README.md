@@ -224,7 +224,7 @@ curl http://localhost:8080/api/logs/threats
 
 | Dashboard | Threat Detection | Analytics |
 |-----------|-----------------|----------|
-| ![Dashboard](screenshot/dashboard.png) | ![Detection](screenshot/detection.png) | ![Analytics](screenshot/analytics.png) |
+| ![Dashboard](https://github.com/Darkwebnew/CyberGuard-AI/blob/main/screenshot/04aca83db9e8432d8c7b484159382216.jpg) | ![Detection](https://github.com/Darkwebnew/CyberGuard-AI/blob/main/screenshot/a0111aa79d404077ae98925567a1c8cc.jpg) | ![Analytics](https://github.com/Darkwebnew/CyberGuard-AI/blob/main/screenshot/f29e60dfb68b4d0db563423feb245ed2.jpg) |
 | Real-time security monitoring | ML-powered threat identification | Comprehensive attack analytics |
 
 </div>
